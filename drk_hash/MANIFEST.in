@@ -1,0 +1,3 @@
+include *.h
+include sha3/*.h
+include sha3/*.c
